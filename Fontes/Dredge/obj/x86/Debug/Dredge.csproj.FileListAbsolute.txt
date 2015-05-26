@@ -1,0 +1,9 @@
+D:\C#\MEI\Fontes\Dredge\Dredge\bin\Debug\Dredge.exe
+D:\C#\MEI\Fontes\Dredge\Dredge\bin\Debug\Dredge.pdb
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\Dredge.Dredge.resources
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\Dredge.Properties.Resources.resources
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\Dredge.exe
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Debug\Dredge.pdb

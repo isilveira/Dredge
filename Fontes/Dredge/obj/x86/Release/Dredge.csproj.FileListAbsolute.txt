@@ -1,0 +1,16 @@
+D:\C#\MEI\Fontes\Dredge\Dredge\bin\Release\Dredge.exe
+D:\C#\MEI\Fontes\Dredge\Dredge\bin\Release\Dredge.pdb
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\Dredge.Dredge.resources
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\Dredge.Properties.Resources.resources
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\GenerateResource.read.1.tlog
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\GenerateResource.write.1.tlog
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\Dredge.exe
+D:\C#\MEI\Fontes\Dredge\Dredge\obj\x86\Release\Dredge.pdb
+D:\SOTERA\PROJETOS\Dredge\Dredge\bin\Release\Dredge.exe
+D:\SOTERA\PROJETOS\Dredge\Dredge\bin\Release\Dredge.pdb
+D:\SOTERA\PROJETOS\Dredge\Dredge\obj\x86\Release\Dredge.Dredge.resources
+D:\SOTERA\PROJETOS\Dredge\Dredge\obj\x86\Release\Dredge.Properties.Resources.resources
+D:\SOTERA\PROJETOS\Dredge\Dredge\obj\x86\Release\Dredge.csproj.GenerateResource.Cache
+D:\SOTERA\PROJETOS\Dredge\Dredge\obj\x86\Release\Dredge.exe
+D:\SOTERA\PROJETOS\Dredge\Dredge\obj\x86\Release\Dredge.pdb
